@@ -1,0 +1,15 @@
+C:\Users\kotan\Documents\GitHub\is20\is20\bin\Debug\net8.0\is20.exe
+C:\Users\kotan\Documents\GitHub\is20\is20\bin\Debug\net8.0\is20.deps.json
+C:\Users\kotan\Documents\GitHub\is20\is20\bin\Debug\net8.0\is20.runtimeconfig.json
+C:\Users\kotan\Documents\GitHub\is20\is20\bin\Debug\net8.0\is20.dll
+C:\Users\kotan\Documents\GitHub\is20\is20\bin\Debug\net8.0\is20.pdb
+C:\Users\kotan\Documents\GitHub\is20\is20\obj\Debug\net8.0\is20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kotan\Documents\GitHub\is20\is20\obj\Debug\net8.0\is20.AssemblyInfoInputs.cache
+C:\Users\kotan\Documents\GitHub\is20\is20\obj\Debug\net8.0\is20.AssemblyInfo.cs
+C:\Users\kotan\Documents\GitHub\is20\is20\obj\Debug\net8.0\is20.csproj.CoreCompileInputs.cache
+C:\Users\kotan\Documents\GitHub\is20\is20\obj\Debug\net8.0\is20.sourcelink.json
+C:\Users\kotan\Documents\GitHub\is20\is20\obj\Debug\net8.0\is20.dll
+C:\Users\kotan\Documents\GitHub\is20\is20\obj\Debug\net8.0\refint\is20.dll
+C:\Users\kotan\Documents\GitHub\is20\is20\obj\Debug\net8.0\is20.pdb
+C:\Users\kotan\Documents\GitHub\is20\is20\obj\Debug\net8.0\is20.genruntimeconfig.cache
+C:\Users\kotan\Documents\GitHub\is20\is20\obj\Debug\net8.0\ref\is20.dll
