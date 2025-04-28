@@ -12,7 +12,7 @@ Now enhanced with floating-point epsilon comparison technology, because rounding
 
 When you pass a number to this highly intelligent programme, it performs mind-blowing internal operations (like the secret NASA experimental string comparison and, sometimes, floating-point parsing) to determine if your number is the sacred “20.”
 
-If you fail to pass exactly one argument (because apparently counting to 1 is hard for some people), the programme will kindly remind you how to use it.
+If you fail to pass exactly one argument (because apparently counting to 1 is too hard for some people), the programme will kindly remind you how to use it.
 
 Otherwise, it will proceed to analyze your input using bleeding-edge switch statement technology.
 
