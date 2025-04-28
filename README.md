@@ -1,6 +1,8 @@
 ## is20
 This groundbreaking .NET C# programme will revolutionize your workflow by telling you whether the number you passed as an argument is 20.
 
+Now enhanced with floating-point epsilon comparison technology, because rounding errors are a thing. Sometimes.
+
 ### Features
  - Outstasnding detection algorithm (misspelled on purpose for authenticity)
  - Complicated floating-point operations
