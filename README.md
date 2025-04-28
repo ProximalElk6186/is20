@@ -5,8 +5,8 @@ Now enhanced with floating-point epsilon comparison technology, because rounding
 
 ### Features
  - Outstasnding detection algorithm (misspelled on purpose for authenticity)
- - Complicated floating-point operations
- - Extremely accurate
+ - Complicated floating-point operations (require a NASA supercomputer to perform)
+ - Extremely accurate (so accurate that the counter long long value overflows)
 
 ### How it Works
 
