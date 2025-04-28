@@ -3,8 +3,8 @@ This groundbreaking .NET C# programme will revolutionize your workflow by tellin
 
 ### Features
  - Outstasnding detection algorithm (misspelled on purpose for authenticity)
- - Complicated floating-point operations (even though it doesn’t need any)
- - Extremely accurate (unless you pass literally anything other than “20”)
+ - Complicated floating-point operations
+ - Extremely accurate
 
 ### How it Works
 
