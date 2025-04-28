@@ -2,9 +2,9 @@
 This groundbreaking .NET C# programme will revolutionize your workflow by telling you whether the number you passed as an argument is 20.
 
 ### Features
-	•	Outstasnding detection algorithm (misspelled on purpose for authenticity)
-	•	Complicated floating-point operations (even though it doesn’t need any)
-	•	Extremely accurate (unless you pass literally anything other than “20”)
+ - Outstasnding detection algorithm (misspelled on purpose for authenticity)
+ - Complicated floating-point operations (even though it doesn’t need any)
+ - Extremely accurate (unless you pass literally anything other than “20”)
 
 ### How it Works
 
@@ -34,10 +34,10 @@ is20
 ```
 
 ### Technical Details
-	•	Written in state-of-the-art C#.
-	•	Leveraging the power of switch-case statements.
-	•	Future-proof design. Won’t need updates for the next 1000 years!
-	•	No unnecessary things like error checking or localization.
+ - Written in state-of-the-art C#.
+ - Leveraging the power of switch-case statements.
+ - Future-proof design. Won’t need updates for the next 1000 years!
+ - No unnecessary things like error checking or localization.
 
 ### Disclaimer
 
